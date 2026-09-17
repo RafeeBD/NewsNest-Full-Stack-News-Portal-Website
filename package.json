@@ -1,0 +1,12 @@
+{
+  "name": "newsnest-portal",
+  "version": "1.0.0",
+  "description": "Full-stack News Portal Website - React, Tailwind CSS, Node.js, Express, MongoDB",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed"
+  }
+}
