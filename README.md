@@ -1,10 +1,10 @@
-# NewsNest 📰 - Full-Stack News Portal Website
+# NewsNest  - Full-Stack News Portal Website
 
 **NewsNest** is a full-stack, feature-rich news portal web application engineered with modern web standards. It enables users to browse global breaking headlines, search articles by category, engage in community discussions, and register as content contributors to publish, edit, and manage their own news stories.
 
 ---
 
-## 🚀 Technology Stack
+##  Technology Stack
 
 - **FrontEnd:** React.js, Tailwind CSS, Zustand (State Management), Lucide Icons, Axios, React Router DOM v6
 - **BackEnd:** Express.js, Node.js, Mongoose, JWT (JSON Web Tokens), Bcryptjs, CORS
@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Functional Requirements Summary
+##  Functional Requirements Summary
 
 | # | Requirement | Implementation Status |
 |---|-------------|-----------------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Local Installation & Setup Guide
+##  Local Installation & Setup Guide
 
 ### 1. Clone & Navigate to Project
 ```bash
@@ -64,7 +64,7 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 To test author publishing and user dashboard features out-of-the-box:
 - **Email:** `user@newsnest.com`
@@ -72,7 +72,7 @@ To test author publishing and user dashboard features out-of-the-box:
 
 ---
 
-## 📦 Deployment & GitHub Submission Guidelines
+##  Deployment & GitHub Submission Guidelines
 
 ### Step 1: Push Code to Public GitHub Repository
 Run the following terminal commands inside the project root:
